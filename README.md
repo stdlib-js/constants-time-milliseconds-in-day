@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import MILLISECONDS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-day@esm/index.mjs';
+import MILLISECONDS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-day@v0.3.2-esm/index.mjs';
 ```
 
 #### MILLISECONDS_IN_DAY
@@ -82,7 +82,7 @@ var bool = ( MILLISECONDS_IN_DAY === 86400000 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import MILLISECONDS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-day@esm/index.mjs';
+import MILLISECONDS_IN_DAY from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-day@v0.3.2-esm/index.mjs';
 
 var ms;
 var d;
